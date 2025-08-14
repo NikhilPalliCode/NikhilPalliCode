@@ -22,7 +22,7 @@ Looking to collaborate on:
 
 📫 **Reach Out**  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nikhil-palli/)  
-- Email: nikhilPalli1997@gmail.com  
+- Email: nikhilPalle1997@gmail.com  
 - Portfolio: [Website](nikhilpallicode.github.io/nikhil-palli-portfolio/)  
 
 ⚡ **Fun Facts**  
