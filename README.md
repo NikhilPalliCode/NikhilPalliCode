@@ -9,7 +9,7 @@ I'm a passionate full-stack software engineer with expertise in Java, Spring Boo
 - Collaborating on projects that solve real-world problems.  
 
 🚀 **Technical Proficiencies**  
-- **Languages:** Java, JavaScript, SQL, Bash  
+- **Languages:** Java, JavaScript, SQL, Shell  
 - **Frameworks:** Spring Boot, Angular, Microservices  
 - **Tools:** Docker, AWS, Git, Tableau  
 - **Databases:** SQL, ETL processes, performance tuning  
@@ -22,7 +22,7 @@ Looking to collaborate on:
 
 📫 **Reach Out**  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nikhil-palli/)  
-- Email: nikhilPalle1997@gmail.com  
+- Email: nikhil.palli.dev@gmail.com  
 - Portfolio: [Website](nikhilpallicode.github.io/nikhil-palli-portfolio/)  
 
 ⚡ **Fun Facts**  
