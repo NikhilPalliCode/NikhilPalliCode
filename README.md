@@ -23,7 +23,7 @@ Looking to collaborate on:
 📫 **Reach Out**  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nikhil-palli/)  
 - Email: nikhil.palli.dev@gmail.com  
-- Portfolio: [Website](nikhilpallicode.github.io/nikhil-palli-portfolio/)  
+- Portfolio: [Website](https://nikhilpallicode.github.io/nikhil-palli-portfolio/)  
 
 ⚡ **Fun Facts**  
 - 🏆 Secured 1st place in a competitive cricket tournament (teamwork under pressure!).  
